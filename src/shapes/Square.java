@@ -8,7 +8,7 @@ public class Square extends Shape {
 	 * below.  Squares cannot have a negative side length.
 	 */
 	public Square(double side) throws IllegalArgumentException{
-		this.side = side;
+		// TODO Implement me
 	}
 	
 	/*
