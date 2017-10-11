@@ -1,4 +1,6 @@
-package tests;
+// Ashley Randt
+
+https://github.com/jjmonte/quiz-2-1-jjmonte/blob/master/src/tests/SquareTest.javapackage tests;
 
 import static org.junit.Assert.*;
 
