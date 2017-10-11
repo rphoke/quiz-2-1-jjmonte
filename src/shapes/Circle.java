@@ -5,7 +5,7 @@ public class Circle extends Shape {
 	
 	/*
 	 * Complete the implementation of this class by finishing the constructor
-	 * below.  Circles cannot have a negative radius.
+	 * below.  Circles must have a positive radius.
 	 */
 	public Circle(double radius) throws IllegalArgumentException {
 		// TODO Implement me

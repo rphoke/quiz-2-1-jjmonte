@@ -5,7 +5,7 @@ public class Square extends Shape {
 
 	/*
 	 * Complete the implementation of this class by finishing the constructor
-	 * below.  Squares cannot have a negative side length.
+	 * below.  Squares must have a positive side length.
 	 */
 	public Square(double side) throws IllegalArgumentException{
 		// TODO Implement me
